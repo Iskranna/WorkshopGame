@@ -1,5 +1,5 @@
-registerHero({
-  name: "Your Hero",
+registerKebbab({
+  name: "Your Kebbab",
   sprite: "mage",
   hp: 40,
   moves: [
