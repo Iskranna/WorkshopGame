@@ -1,4 +1,4 @@
-registerKebbab({
+registerHero({
   name: "Your Kebbab",
   sprite: "mage",
   hp: 40,
