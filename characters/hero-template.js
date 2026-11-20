@@ -8,4 +8,3 @@ registerHero({
     { name: "Move Three", damage: 10 }
   ]
 });
-
